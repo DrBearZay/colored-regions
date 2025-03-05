@@ -4,7 +4,7 @@
   "displayName": "Colored Regions",
   "description": "This package provides a simple way of colorizing regions.",
   "version": "0.0.6",
-  "publisher": "mihelcic",
+  "publisher": "DrBearZay",
   "engines": {
     "vscode": "^1.86.0"
   },
@@ -34,7 +34,14 @@
         },
         "coloredRegions.colorRange": {
           "type": "array",
-          "default": ["#65a30d12", "#0891b212", "#db277712", "#ca8a0412", "#dc262612", "#7c3aed12"],
+          "default": [
+            "#65a30d12",
+            "#0891b212",
+            "#db277712",
+            "#ca8a0412",
+            "#dc262612",
+            "#7c3aed12"
+          ],
           "description": "You can omit color declaration - in this case #region will take the next color from this array",
           "scope": "window"
         }
