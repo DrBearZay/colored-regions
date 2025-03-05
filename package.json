@@ -1,6 +1,6 @@
 {
   "icon": "images/icon.png",
-  "name": "colored-regions",
+  "name": "colored-regions-fixed",
   "displayName": "Colored Regions",
   "description": "This package provides a simple way of colorizing regions.",
   "version": "0.0.7",
