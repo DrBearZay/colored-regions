@@ -54,9 +54,9 @@ end region ]]--
     Python Multiline
     Region End '''
 
-<!-- region [rgb(0, 0, 255, 0.3)] -->
+<!-- #region [rgb(0, 0, 255, 0.3)] -->
     HTML
-<!-- region end -->
+<!-- #endregion -->
 
 -- #region [rgb(0, 170, 50, 0.3)] -->
     SQL: SELECT * FROM INFORMATION_SCHEMA.TABLES;
