@@ -1,9 +1,9 @@
 {
   "icon": "images/icon.png",
-  "name": "colored-regions-drbearzay",
-  "displayName": "Colored Regions",
+  "name": "colored-regions",
+  "displayName": "Colored Regions HTML Fixed",
   "description": "This package provides a simple way of colorizing regions.",
-  "version": "0.0.7",
+  "version": "0.0.1",
   "publisher": "DrBearZay",
   "engines": {
     "vscode": "^1.86.0"
@@ -73,11 +73,11 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jmihelcic/colored-regions/issues"
+    "url": "https://github.com/DrBearZay/colored-regions/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jmihelcic/colored-regions.git"
+    "url": "https://github.com/DrBearZay/colored-regions.git"
   },
-  "homepage": "https://github.com/jmihelcic/colored-regions/blob/master/README.md"
+  "homepage": "https://github.com/DrBearZay/colored-regions/blob/master/README.md"
 }
